@@ -49,6 +49,3 @@ This will create a virtual environment for you. No extra dependencies are needed
 ### 3. Run the Example
 python debug.py
 This script will show the system in action: adding customers and coffees, placing orders, and printing out some fun stats.
-
-
-Thanks for stopping by! Enjoy the code — and maybe grab a real cup of coffee while you're at it.
